@@ -1,0 +1,8 @@
+# Файлы Python
+__pycache__/
+*.pyc
+*.log
+
+# Личные файлы
+.env
+secrets.txt
